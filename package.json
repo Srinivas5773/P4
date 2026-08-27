@@ -1,0 +1,25 @@
+{
+  "name": "rock-paper-scissors-mega",
+  "version": "1.0.0",
+  "description": "Enterprise Rock Paper Scissors Game Suite & RPG Battle Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build completed successfully'",
+    "test": "npx jest --coverage"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [
+    "game",
+    "rock-paper-scissors",
+    "express",
+    "jest"
+  ],
+  "author": "Srinivas5773",
+  "private": true
+}
